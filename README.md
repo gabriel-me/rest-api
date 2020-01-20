@@ -30,8 +30,8 @@ Uma API RESTful de usuários (sign in/sign up) escrito em NodeJS
 
 ## Instalando/Iniciando aplicação
 
-- `git clone https://github.com/gabriel-me/api.git`
-- `cd api`
+- `git clone https://github.com/gabriel-me/rest-api.git`
+- `cd rest-api`
 - `npm install`
 - `npm start`
 
