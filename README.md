@@ -78,7 +78,7 @@ BODY
 
 ### Selecionar usuário `GET`
 ```
-http://localhost:8082/api/users
+http://localhost:8082/api/users/:id
 ```
 HEADERS
 ```
